@@ -1,0 +1,8 @@
+title: Guillermo Lechuga
+url: https://guillermolechuga.github.io
+markdown: kramdown
+defaults:
+  - scope:
+      path: "legal"
+    values:
+      layout: legal
