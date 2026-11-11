@@ -11,5 +11,6 @@ title: Legal
 - [GuessWhat: Party Charades](/legal/privacy/guess-what/)
 - [MindGauge](/legal/privacy/mind-gauge/)
 - [Jam Mate](/legal/privacy/jam-mate/)
+- [Little GP](/legal/privacy/little-gp/)
 - [CAP y Competencia Profesional](/legal/privacy/cap-comp/)
 - [ArmasTest](/legal/privacy/armas-test/)
