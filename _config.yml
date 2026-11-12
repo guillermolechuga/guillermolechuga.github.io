@@ -6,3 +6,7 @@ defaults:
       path: "legal"
     values:
       layout: legal
+  - scope:
+      path: "support"
+    values:
+      layout: legal

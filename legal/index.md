@@ -14,3 +14,7 @@ title: Legal
 - [Little GP](/legal/privacy/little-gp/)
 - [CAP y Competencia Profesional](/legal/privacy/cap-comp/)
 - [ArmasTest](/legal/privacy/armas-test/)
+
+## Support
+
+- [Support for each app](/support/)
