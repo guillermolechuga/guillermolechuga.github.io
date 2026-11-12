@@ -10,3 +10,7 @@ defaults:
       path: "support"
     values:
       layout: legal
+  - scope:
+      path: "portfolio"
+    values:
+      layout: portfolio
