@@ -24,7 +24,12 @@
     th { color: var(--muted); font-weight: 500; white-space: nowrap; }
     .shots { display: flex; gap: .75rem; overflow-x: auto; padding: .5rem 0 1rem; }
     .shots img { height: 380px; width: auto; border-radius: 14px; border: 1px solid var(--line); flex: none; }
-    video { max-width: 100%; max-height: 480px; border-radius: 12px; }
+    .stores { display: flex; flex-wrap: wrap; align-items: center; gap: .75rem; margin: 1rem 0; }
+    .stores img { height: 44px; width: auto; display: block; }
+    .badge.soon { position: relative; opacity: .55; }
+    .badge.soon::after { content: "Coming soon"; position: absolute; left: 0; right: 0; bottom: -1.2rem; text-align: center; font-size: .7rem; color: var(--muted); }
+    .soon-text { font-size: .85rem; color: var(--muted); }
+    .stores { margin-bottom: 1.5rem; }
   </style>
 </head>
 <body>
