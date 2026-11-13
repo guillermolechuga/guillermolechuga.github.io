@@ -24,6 +24,10 @@
     th { color: var(--muted); font-weight: 500; white-space: nowrap; }
     .shots { display: flex; gap: .75rem; overflow-x: auto; padding: .5rem 0 1rem; }
     .shots img { height: 380px; width: auto; border-radius: 14px; border: 1px solid var(--line); flex: none; }
+    .index { list-style: none; padding: 0; margin: 1.5rem 0 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr)); gap: .75rem 1rem; }
+    .index a { display: flex; align-items: center; gap: .75rem; text-decoration: none; font-size: .95rem; line-height: 1.3; }
+    .index a:hover span { text-decoration: underline; }
+    .index img { width: 48px; height: 48px; border-radius: 11px; flex: none; }
     .stores { display: flex; flex-wrap: wrap; align-items: center; gap: .75rem; margin: 1rem 0; }
     .stores img { height: 44px; width: auto; display: block; }
     .badge.soon { position: relative; opacity: .55; }

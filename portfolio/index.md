@@ -5,19 +5,21 @@ description: Mobile apps and games by Guillermo Lechuga, independent iOS and And
 
 # Portfolio
 
-I'm Guillermo Lechuga, an independent mobile developer based in Spain. I design, build and publish my own apps end to end, from game design and in-app purchases to analytics and store releases. Below are the apps I have published so far.
+I'm Guillermo Lechuga, an independent mobile developer based in Barcelona, Spain. I design, build and publish my own apps end to end, from game design and in-app purchases to analytics and store releases. Below are the apps I have published so far.
 
 **At a glance:** 8 apps (7 live on the App Store, 3 already on Google Play and 3 more coming soon) · 5 games, 1 music app, 2 education apps · up to 9 languages · no accounts required, privacy-first.
 
+<ul class="index"><li><a href="#alchemy-td"><img src="/portfolio/images/alchemy-td-icon.jpg" width="48" height="48" alt=""><span>Alchemy: Merge Tower Defense</span></a></li><li><a href="#from-one-to-ten"><img src="/portfolio/images/from-one-to-ten-icon.jpg" width="48" height="48" alt=""><span>From 1 to 10: Trivia Game</span></a></li><li><a href="#guess-what"><img src="/portfolio/images/guess-what-icon.jpg" width="48" height="48" alt=""><span>Guess What: Charades Party</span></a></li><li><a href="#mind-gauge"><img src="/portfolio/images/mind-gauge-icon.jpg" width="48" height="48" alt=""><span>Mind Gauge: Guess the Spectrum</span></a></li><li><a href="#jam-mate"><img src="/portfolio/images/jam-mate-icon.jpg" width="48" height="48" alt=""><span>Jam Mate: AI Backing Tracks</span></a></li><li><a href="#little-gp"><img src="/portfolio/images/little-gp-icon.jpg" width="48" height="48" alt=""><span>Little GP</span></a></li><li><a href="#cap-comp"><img src="/portfolio/images/cap-comp-icon.jpg" width="48" height="48" alt=""><span>CAP y Competencia Profesional</span></a></li><li><a href="#armas-test"><img src="/portfolio/images/armas-test-icon.jpg" width="48" height="48" alt=""><span>Licencia de Armas: ArmasTest</span></a></li></ul>
+
 ---
 
-<h2 id="alchemy-td"><img src="/portfolio/images/alchemy-td-icon.jpg" alt="Alchemy: Merge Tower Defense icon"> Alchemy: Merge Tower Defense</h2>
+<h2 id="alchemy-td"><img src="/portfolio/images/alchemy-td-icon.jpg" width="64" height="64" alt="Alchemy: Merge Tower Defense icon"> Alchemy: Merge Tower Defense</h2>
 
 *Merge elements into alchemical towers and defend the core.*
 
-<div class="stores"><a class="badge" href="https://apps.apple.com/app/id6822802204"><img src="/portfolio/images/badge-app-store.svg" alt="Download on the App Store"></a></div>
+<div class="stores"><a class="badge" href="https://apps.apple.com/app/id6822802204"><img src="/portfolio/images/badge-app-store.svg" width="132" height="44" alt="Download on the App Store"></a></div>
 
-<div class="shots"><img src="/portfolio/images/alchemy-td-1.jpg" alt="Alchemy: Merge Tower Defense screenshot 1" loading="lazy"><img src="/portfolio/images/alchemy-td-2.jpg" alt="Alchemy: Merge Tower Defense screenshot 2" loading="lazy"><img src="/portfolio/images/alchemy-td-3.jpg" alt="Alchemy: Merge Tower Defense screenshot 3" loading="lazy"><img src="/portfolio/images/alchemy-td-4.jpg" alt="Alchemy: Merge Tower Defense screenshot 4" loading="lazy"><img src="/portfolio/images/alchemy-td-5.jpg" alt="Alchemy: Merge Tower Defense screenshot 5" loading="lazy"></div>
+<div class="shots"><img src="/portfolio/images/alchemy-td-1.jpg" width="175" height="380" alt="Alchemy: Merge Tower Defense screenshot 1" loading="lazy"><img src="/portfolio/images/alchemy-td-2.jpg" width="175" height="380" alt="Alchemy: Merge Tower Defense screenshot 2" loading="lazy"><img src="/portfolio/images/alchemy-td-3.jpg" width="175" height="380" alt="Alchemy: Merge Tower Defense screenshot 3" loading="lazy"><img src="/portfolio/images/alchemy-td-4.jpg" width="175" height="380" alt="Alchemy: Merge Tower Defense screenshot 4" loading="lazy"><img src="/portfolio/images/alchemy-td-5.jpg" width="175" height="380" alt="Alchemy: Merge Tower Defense screenshot 5" loading="lazy"></div>
 
 Merge Fire, Water, Earth and Air into over 40 alchemical towers, then hold the line against 30 waves of living-mineral monsters. Every merge is a discovery: each new recipe fills a page of your Grimoire, all the way to the Philosopher's Stone.
 
@@ -37,13 +39,13 @@ Runs are varied (pick bases, equip a bench of catalysts, choose upgrades every f
 
 ---
 
-<h2 id="from-one-to-ten"><img src="/portfolio/images/from-one-to-ten-icon.jpg" alt="From 1 to 10: Trivia Game icon"> From 1 to 10: Trivia Game</h2>
+<h2 id="from-one-to-ten"><img src="/portfolio/images/from-one-to-ten-icon.jpg" width="64" height="64" alt="From 1 to 10: Trivia Game icon"> From 1 to 10: Trivia Game</h2>
 
 *The social trivia game where your ego is your biggest opponent.*
 
-<div class="stores"><a class="badge" href="https://apps.apple.com/app/id6762570431"><img src="/portfolio/images/badge-app-store.svg" alt="Download on the App Store"></a><a class="badge" href="https://play.google.com/store/apps/details?id=com.guillermolechuga.fromonetoten"><img src="/portfolio/images/badge-google-play.png" alt="Get it on Google Play"></a></div>
+<div class="stores"><a class="badge" href="https://apps.apple.com/app/id6762570431"><img src="/portfolio/images/badge-app-store.svg" width="132" height="44" alt="Download on the App Store"></a><a class="badge" href="https://play.google.com/store/apps/details?id=com.guillermolechuga.fromonetoten"><img src="/portfolio/images/badge-google-play.png" width="148" height="44" alt="Get it on Google Play"></a></div>
 
-<div class="shots"><img src="/portfolio/images/from-one-to-ten-1.jpg" alt="From 1 to 10: Trivia Game screenshot 1" loading="lazy"><img src="/portfolio/images/from-one-to-ten-2.jpg" alt="From 1 to 10: Trivia Game screenshot 2" loading="lazy"><img src="/portfolio/images/from-one-to-ten-3.jpg" alt="From 1 to 10: Trivia Game screenshot 3" loading="lazy"><img src="/portfolio/images/from-one-to-ten-4.jpg" alt="From 1 to 10: Trivia Game screenshot 4" loading="lazy"><img src="/portfolio/images/from-one-to-ten-5.jpg" alt="From 1 to 10: Trivia Game screenshot 5" loading="lazy"></div>
+<div class="shots"><img src="/portfolio/images/from-one-to-ten-1.jpg" width="175" height="380" alt="From 1 to 10: Trivia Game screenshot 1" loading="lazy"><img src="/portfolio/images/from-one-to-ten-2.jpg" width="175" height="380" alt="From 1 to 10: Trivia Game screenshot 2" loading="lazy"><img src="/portfolio/images/from-one-to-ten-3.jpg" width="175" height="380" alt="From 1 to 10: Trivia Game screenshot 3" loading="lazy"><img src="/portfolio/images/from-one-to-ten-4.jpg" width="175" height="380" alt="From 1 to 10: Trivia Game screenshot 4" loading="lazy"><img src="/portfolio/images/from-one-to-ten-5.jpg" width="175" height="380" alt="From 1 to 10: Trivia Game screenshot 5" loading="lazy"></div>
 
 A pass-and-play party game inspired by the French format *Tu te mets combien ?*. Pick a topic, rate how confident you are from 1 to 10, then answer: the higher the level, the harder the question and the bigger the reward.
 
@@ -62,13 +64,13 @@ Designed for one phone and a group of friends, with special events like Blind Be
 
 ---
 
-<h2 id="guess-what"><img src="/portfolio/images/guess-what-icon.jpg" alt="Guess What: Charades Party icon"> Guess What: Charades Party</h2>
+<h2 id="guess-what"><img src="/portfolio/images/guess-what-icon.jpg" width="64" height="64" alt="Guess What: Charades Party icon"> Guess What: Charades Party</h2>
 
 *Modern charades for parties, family nights and classrooms.*
 
-<div class="stores"><a class="badge" href="https://apps.apple.com/app/id6759858724"><img src="/portfolio/images/badge-app-store.svg" alt="Download on the App Store"></a><a class="badge" href="https://play.google.com/store/apps/details?id=com.guillermolechuga.guesswhat"><img src="/portfolio/images/badge-google-play.png" alt="Get it on Google Play"></a></div>
+<div class="stores"><a class="badge" href="https://apps.apple.com/app/id6759858724"><img src="/portfolio/images/badge-app-store.svg" width="132" height="44" alt="Download on the App Store"></a><a class="badge" href="https://play.google.com/store/apps/details?id=com.guillermolechuga.guesswhat"><img src="/portfolio/images/badge-google-play.png" width="148" height="44" alt="Get it on Google Play"></a></div>
 
-<div class="shots"><img src="/portfolio/images/guess-what-1.jpg" alt="Guess What: Charades Party screenshot 1" loading="lazy"><img src="/portfolio/images/guess-what-2.jpg" alt="Guess What: Charades Party screenshot 2" loading="lazy"><img src="/portfolio/images/guess-what-3.jpg" alt="Guess What: Charades Party screenshot 3" loading="lazy"><img src="/portfolio/images/guess-what-4.jpg" alt="Guess What: Charades Party screenshot 4" loading="lazy"><img src="/portfolio/images/guess-what-5.jpg" alt="Guess What: Charades Party screenshot 5" loading="lazy"></div>
+<div class="shots"><img src="/portfolio/images/guess-what-1.jpg" width="175" height="380" alt="Guess What: Charades Party screenshot 1" loading="lazy"><img src="/portfolio/images/guess-what-2.jpg" width="175" height="380" alt="Guess What: Charades Party screenshot 2" loading="lazy"><img src="/portfolio/images/guess-what-3.jpg" width="175" height="380" alt="Guess What: Charades Party screenshot 3" loading="lazy"><img src="/portfolio/images/guess-what-4.jpg" width="175" height="380" alt="Guess What: Charades Party screenshot 4" loading="lazy"><img src="/portfolio/images/guess-what-5.jpg" width="175" height="380" alt="Guess What: Charades Party screenshot 5" loading="lazy"></div>
 
 Choose a deck, act out or describe the word on screen, and score points before time runs out. Inspired by Time's Up and Monikers, it replaces paper cards and external timers with a fast, minimalist interface.
 
@@ -87,13 +89,13 @@ Players can also create their own decks for inside jokes, family challenges or c
 
 ---
 
-<h2 id="mind-gauge"><img src="/portfolio/images/mind-gauge-icon.jpg" alt="Mind Gauge: Guess the Spectrum icon"> Mind Gauge: Guess the Spectrum</h2>
+<h2 id="mind-gauge"><img src="/portfolio/images/mind-gauge-icon.jpg" width="64" height="64" alt="Mind Gauge: Guess the Spectrum icon"> Mind Gauge: Guess the Spectrum</h2>
 
 *A social guessing game about thinking on the same wavelength.*
 
-<div class="stores"><a class="badge" href="https://apps.apple.com/app/id6778102245"><img src="/portfolio/images/badge-app-store.svg" alt="Download on the App Store"></a></div>
+<div class="stores"><a class="badge" href="https://apps.apple.com/app/id6778102245"><img src="/portfolio/images/badge-app-store.svg" width="132" height="44" alt="Download on the App Store"></a></div>
 
-<div class="shots"><img src="/portfolio/images/mind-gauge-1.jpg" alt="Mind Gauge: Guess the Spectrum screenshot 1" loading="lazy"><img src="/portfolio/images/mind-gauge-2.jpg" alt="Mind Gauge: Guess the Spectrum screenshot 2" loading="lazy"><img src="/portfolio/images/mind-gauge-3.jpg" alt="Mind Gauge: Guess the Spectrum screenshot 3" loading="lazy"><img src="/portfolio/images/mind-gauge-4.jpg" alt="Mind Gauge: Guess the Spectrum screenshot 4" loading="lazy"><img src="/portfolio/images/mind-gauge-5.jpg" alt="Mind Gauge: Guess the Spectrum screenshot 5" loading="lazy"></div>
+<div class="shots"><img src="/portfolio/images/mind-gauge-1.jpg" width="175" height="380" alt="Mind Gauge: Guess the Spectrum screenshot 1" loading="lazy"><img src="/portfolio/images/mind-gauge-2.jpg" width="175" height="380" alt="Mind Gauge: Guess the Spectrum screenshot 2" loading="lazy"><img src="/portfolio/images/mind-gauge-3.jpg" width="175" height="380" alt="Mind Gauge: Guess the Spectrum screenshot 3" loading="lazy"><img src="/portfolio/images/mind-gauge-4.jpg" width="175" height="380" alt="Mind Gauge: Guess the Spectrum screenshot 4" loading="lazy"><img src="/portfolio/images/mind-gauge-5.jpg" width="175" height="380" alt="Mind Gauge: Guess the Spectrum screenshot 5" loading="lazy"></div>
 
 Each round shows a spectrum between two opposite ideas. One player secretly sees the target and gives a clue; everyone else debates it, moves the needle and reveals how close the group came.
 
@@ -112,13 +114,13 @@ Play in teams or cooperatively on a single device, with prompt packs covering fo
 
 ---
 
-<h2 id="jam-mate"><img src="/portfolio/images/jam-mate-icon.jpg" alt="Jam Mate: AI Backing Tracks icon"> Jam Mate: AI Backing Tracks</h2>
+<h2 id="jam-mate"><img src="/portfolio/images/jam-mate-icon.jpg" width="64" height="64" alt="Jam Mate: AI Backing Tracks icon"> Jam Mate: AI Backing Tracks</h2>
 
 *An original full band that builds itself around you, in any key, style and tempo.*
 
-<div class="stores"><a class="badge" href="https://apps.apple.com/app/id6797809320"><img src="/portfolio/images/badge-app-store.svg" alt="Download on the App Store"></a><a class="badge soon" href="https://play.google.com/store/apps/details?id=com.guillermolechuga.jammate"><img src="/portfolio/images/badge-google-play.png" alt="Get it on Google Play"></a></div>
+<div class="stores"><a class="badge" href="https://apps.apple.com/app/id6797809320"><img src="/portfolio/images/badge-app-store.svg" width="132" height="44" alt="Download on the App Store"></a><a class="badge soon" href="https://play.google.com/store/apps/details?id=com.guillermolechuga.jammate"><img src="/portfolio/images/badge-google-play.png" width="148" height="44" alt="Get it on Google Play"></a></div>
 
-<div class="shots"><img src="/portfolio/images/jam-mate-1.jpg" alt="Jam Mate: AI Backing Tracks screenshot 1" loading="lazy"><img src="/portfolio/images/jam-mate-2.jpg" alt="Jam Mate: AI Backing Tracks screenshot 2" loading="lazy"><img src="/portfolio/images/jam-mate-3.jpg" alt="Jam Mate: AI Backing Tracks screenshot 3" loading="lazy"><img src="/portfolio/images/jam-mate-4.jpg" alt="Jam Mate: AI Backing Tracks screenshot 4" loading="lazy"><img src="/portfolio/images/jam-mate-5.jpg" alt="Jam Mate: AI Backing Tracks screenshot 5" loading="lazy"></div>
+<div class="shots"><img src="/portfolio/images/jam-mate-1.jpg" width="175" height="380" alt="Jam Mate: AI Backing Tracks screenshot 1" loading="lazy"><img src="/portfolio/images/jam-mate-2.jpg" width="175" height="380" alt="Jam Mate: AI Backing Tracks screenshot 2" loading="lazy"><img src="/portfolio/images/jam-mate-3.jpg" width="175" height="380" alt="Jam Mate: AI Backing Tracks screenshot 3" loading="lazy"><img src="/portfolio/images/jam-mate-4.jpg" width="175" height="380" alt="Jam Mate: AI Backing Tracks screenshot 4" loading="lazy"><img src="/portfolio/images/jam-mate-5.jpg" width="175" height="380" alt="Jam Mate: AI Backing Tracks screenshot 5" loading="lazy"></div>
 
 Practice chords, improvise solos and play along without hunting for the right track. Choose a musical direction and Jam Mate generates a full band (piano, bass, guitar, strings, lead voice and drums) in the key and tempo you want.
 
@@ -138,11 +140,11 @@ You can reshape the chord progression while playback continues, mute or solo ins
 
 ---
 
-<h2 id="little-gp"><img src="/portfolio/images/little-gp-icon.jpg" alt="Little GP icon"> Little GP</h2>
+<h2 id="little-gp"><img src="/portfolio/images/little-gp-icon.jpg" width="64" height="64" alt="Little GP icon"> Little GP</h2>
 
 *A racing game with a built-in track editor, ghost laps and leaderboards.*
 
-<div class="stores"><span class="badge soon-text">App Store: coming soon</span><a class="badge soon" href="https://play.google.com/store/apps/details?id=com.guillermolechuga.littlegp"><img src="/portfolio/images/badge-google-play.png" alt="Get it on Google Play"></a></div>
+<div class="stores"><span class="badge soon-text">App Store: coming soon</span><a class="badge soon" href="https://play.google.com/store/apps/details?id=com.guillermolechuga.littlegp"><img src="/portfolio/images/badge-google-play.png" width="148" height="44" alt="Get it on Google Play"></a></div>
 
 A small racing game with multiple cars, tracks and cups, medals to earn and ghost laps to beat. You can design your own circuits in the track editor.
 
@@ -162,13 +164,13 @@ Little GP shows no ads, needs no account and keeps all progress on your device.
 
 ---
 
-<h2 id="cap-comp"><img src="/portfolio/images/cap-comp-icon.jpg" alt="CAP y Competencia Profesional icon"> CAP y Competencia Profesional</h2>
+<h2 id="cap-comp"><img src="/portfolio/images/cap-comp-icon.jpg" width="64" height="64" alt="CAP y Competencia Profesional icon"> CAP y Competencia Profesional</h2>
 
 *Exam preparation for professional drivers in Spain (Spanish-language app).*
 
-<div class="stores"><a class="badge" href="https://apps.apple.com/app/id6814618593"><img src="/portfolio/images/badge-app-store.svg" alt="Download on the App Store"></a><a class="badge" href="https://play.google.com/store/apps/details?id=com.guillermolechuga.capcomp"><img src="/portfolio/images/badge-google-play.png" alt="Get it on Google Play"></a></div>
+<div class="stores"><a class="badge" href="https://apps.apple.com/app/id6814618593"><img src="/portfolio/images/badge-app-store.svg" width="132" height="44" alt="Download on the App Store"></a><a class="badge" href="https://play.google.com/store/apps/details?id=com.guillermolechuga.capcomp"><img src="/portfolio/images/badge-google-play.png" width="148" height="44" alt="Get it on Google Play"></a></div>
 
-<div class="shots"><img src="/portfolio/images/cap-comp-1.jpg" alt="CAP y Competencia Profesional screenshot 1" loading="lazy"><img src="/portfolio/images/cap-comp-2.jpg" alt="CAP y Competencia Profesional screenshot 2" loading="lazy"><img src="/portfolio/images/cap-comp-3.jpg" alt="CAP y Competencia Profesional screenshot 3" loading="lazy"><img src="/portfolio/images/cap-comp-4.jpg" alt="CAP y Competencia Profesional screenshot 4" loading="lazy"><img src="/portfolio/images/cap-comp-5.jpg" alt="CAP y Competencia Profesional screenshot 5" loading="lazy"></div>
+<div class="shots"><img src="/portfolio/images/cap-comp-1.jpg" width="175" height="380" alt="CAP y Competencia Profesional screenshot 1" loading="lazy"><img src="/portfolio/images/cap-comp-2.jpg" width="175" height="380" alt="CAP y Competencia Profesional screenshot 2" loading="lazy"><img src="/portfolio/images/cap-comp-3.jpg" width="175" height="380" alt="CAP y Competencia Profesional screenshot 3" loading="lazy"><img src="/portfolio/images/cap-comp-4.jpg" width="175" height="380" alt="CAP y Competencia Profesional screenshot 4" loading="lazy"><img src="/portfolio/images/cap-comp-5.jpg" width="175" height="380" alt="CAP y Competencia Profesional screenshot 5" loading="lazy"></div>
 
 Study for the CAP and the Competencia Profesional transport exams, for goods or passengers. Pick your target exam, practise with quick tests or full mock exams and understand every answer with a clear explanation.
 
@@ -187,13 +189,13 @@ A review section sorts questions into pending, failed, doubtful and mastered, an
 
 ---
 
-<h2 id="armas-test"><img src="/portfolio/images/armas-test-icon.jpg" alt="Licencia de Armas: ArmasTest icon"> Licencia de Armas: ArmasTest</h2>
+<h2 id="armas-test"><img src="/portfolio/images/armas-test-icon.jpg" width="64" height="64" alt="Licencia de Armas: ArmasTest icon"> Licencia de Armas: ArmasTest</h2>
 
 *Study for the Guardia Civil weapons licence exam (Spanish-language app).*
 
-<div class="stores"><a class="badge" href="https://apps.apple.com/app/id6811419772"><img src="/portfolio/images/badge-app-store.svg" alt="Download on the App Store"></a><a class="badge soon" href="https://play.google.com/store/apps/details?id=com.guillermolechuga.armastest"><img src="/portfolio/images/badge-google-play.png" alt="Get it on Google Play"></a></div>
+<div class="stores"><a class="badge" href="https://apps.apple.com/app/id6811419772"><img src="/portfolio/images/badge-app-store.svg" width="132" height="44" alt="Download on the App Store"></a><a class="badge soon" href="https://play.google.com/store/apps/details?id=com.guillermolechuga.armastest"><img src="/portfolio/images/badge-google-play.png" width="148" height="44" alt="Get it on Google Play"></a></div>
 
-<div class="shots"><img src="/portfolio/images/armas-test-1.jpg" alt="Licencia de Armas: ArmasTest screenshot 1" loading="lazy"><img src="/portfolio/images/armas-test-2.jpg" alt="Licencia de Armas: ArmasTest screenshot 2" loading="lazy"><img src="/portfolio/images/armas-test-3.jpg" alt="Licencia de Armas: ArmasTest screenshot 3" loading="lazy"><img src="/portfolio/images/armas-test-4.jpg" alt="Licencia de Armas: ArmasTest screenshot 4" loading="lazy"><img src="/portfolio/images/armas-test-5.jpg" alt="Licencia de Armas: ArmasTest screenshot 5" loading="lazy"></div>
+<div class="shots"><img src="/portfolio/images/armas-test-1.jpg" width="175" height="380" alt="Licencia de Armas: ArmasTest screenshot 1" loading="lazy"><img src="/portfolio/images/armas-test-2.jpg" width="175" height="380" alt="Licencia de Armas: ArmasTest screenshot 2" loading="lazy"><img src="/portfolio/images/armas-test-3.jpg" width="175" height="380" alt="Licencia de Armas: ArmasTest screenshot 3" loading="lazy"><img src="/portfolio/images/armas-test-4.jpg" width="175" height="380" alt="Licencia de Armas: ArmasTest screenshot 4" loading="lazy"><img src="/portfolio/images/armas-test-5.jpg" width="175" height="380" alt="Licencia de Armas: ArmasTest screenshot 5" loading="lazy"></div>
 
 Prepare the official Guardia Civil weapons licence exam (permits D, E, F and hunting) with up-to-date multiple-choice questions and a detailed explanation for every answer.
 
